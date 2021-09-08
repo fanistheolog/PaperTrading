@@ -3,7 +3,7 @@ A Paper Trading app on android
 
 Paper Trading app is an app where you can test out your investment strategies as well as learn about the markets with a virtual amount of money but with real time prices of stocks and cryptocoins.
 
-Introduction
+# Introduction
 In this app you start with 10,000 dollars. You can select what stock or coin you want to buy and you can see a graph of the stocks performance in 6 different time frames (1m, 5m, 15m, 30m, 1h, 4h). You can see how many shares of a specific stock you own and can either sell how ever many you want (if you have some stocks in your possession already) or buy stocks with your remaining buying power.  
 
 # Screenshots
